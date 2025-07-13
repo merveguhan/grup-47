@@ -72,3 +72,15 @@ Aşamalı ekran görünümleri
 
 
 - **Ürün Durumu**: Henüz üründe bir çıktı oluşturulamamıştır.
+
+- **Sprint Review**: 
+Alınan kararlar: Sıfırdan uygulama geliştirmek için kod yazma bilgi ve becerimizin yeterli olmadığına karar verilerek kod iskeleti oluşturulmuş sistemler üzerinden uygulamamıza özgün özelliklerin eklenmesiyle ürünün oluşturulmasına karar verilmiştir. Uygulama için kod yazmaya başlama ikinci sprinte aktarılmıştır.
+Sprint katılımcıları: Züleyha Çiçen, Merve Gühan, Emirhan Bahşi, Elanur İmirgi, Mehmet Esat Karataş.
+
+- **Sprint Retrospective:**
+  - Tahmin puanları gözden geçirilmeli ve diğer sprintler için daha fazla görev dağılımı yapılarak yapılacaklar daha hızlı bitirilmeli kararı alınmştır.
+  - Daily Scrum için hergün düzenli olarak mesaj ile iletişimde olma kararı alınmıştır.
+ 
+-**Diğer Notlar**:
+- Yok
+
