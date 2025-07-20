@@ -84,3 +84,66 @@ Sprint katılımcıları: Züleyha Çiçen, Merve Gühan, Emirhan Bahşi, Elanur
 -**Diğer Notlar**:
 - Yok
 
+# Sprint 2
+
+### Sprint Notları  
+- Ekip içindeki görev dağılımı yeniden gözden geçirildi ve optimize edildi.  
+- Ürünün hangi özellikleri içereceği, nasıl kullanılacağı ve kullanıcıya hangi faydaları sağlayacağı detaylandırıldı. 
+- Uygulamanın temel tasarımı tamamlandı.
+- Ürünün kod iskeleti oluşturuldu ve ana sayfalar (basic pages) için temel kodlama işlemlerine başlandı.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda 300 puanlık bir backlog oluşturulmuştur. Bu puanlar, üç sprint'e eşit şekilde bölünerek her sprint için ortalama 100 puanlık iş hedeflenmiştir. Bu sprintte de bu hedef doğrultusunda planlama yapılmıştır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal kısıtlar nedeniyle WhatsApp üzerinden mesaj yoluyla gerçekleştirilmesine devam edilmiştir. Ancak bu sprint boyunca ekip içinde iletişim sorunları yaşanmış, günlük iletişim sürekliliği sağlanamamıştır. Bu durum, bazı işlerin zamanında tamamlanamamasına neden olmuştur.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog, öncelikli işler dikkate alınarak düzenlenmiştir. Sprint’e dahil edilen story'ler, tahmini puan sayısı 100’ü geçmeyecek şekilde seçilmiştir. Her bir story için belirlenen tahmin puanı, toplam puanın yarısından az tutulmuştur; böylece işler daha bölünebilir ve takip edilebilir hale getirilmiştir.
+## Sprint Board Güncellemesi ve Burndown Güncellemesi
+
+- **Burndown Tablosu**: Ayrıca Miro Board'da: [Miro Board](https://miro.com/app/board/uXjVIhckX3g=/) 
+Aşamalı ekran görünümleri
+![Burndown 1](https://github.com/merveguhan/Sprint-deneme/blob/merve/grafik-2.png) 
+ 
+- **Sprint board güncellemesi**: Sprint board ekran görüntüleri: 
+![Backlog 1](https://github.com/merveguhan/Sprint-deneme/blob/merve/sprint-2.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+
+
+  ![Screenshot 1](https://github.com/merveguhan/Sprint-deneme/blob/merve/1.jpg)
+  ![Screenshot 2](https://github.com/merveguhan/Sprint-deneme/blob/merve/2.jpg)
+  ![Screenshot 3](https://github.com/merveguhan/Sprint-deneme/blob/merve/3.jpg) 
+  ![Screenshot 4](https://github.com/merveguhan/Sprint-deneme/blob/merve/4.jpg)
+  ![Screenshot 5](https://github.com/merveguhan/Sprint-deneme/blob/merve/5.jpg)
+  ![Screenshot 6](https://github.com/merveguhan/Sprint-deneme/blob/merve/6.jpg)
+  ![Screenshot 7](https://github.com/merveguhan/Sprint-deneme/blob/merve/7.jpg)
+  ![Screenshot 8](https://github.com/merveguhan/Sprint-deneme/blob/merve/8.jpg) 
+  ![Screenshot 9](https://github.com/merveguhan/Sprint-deneme/blob/merve/9.jpg)
+  ![Screenshot 10](https://github.com/merveguhan/Sprint-deneme/blob/merve/10.jpg)
+
+- **Sprint Review**: 
+- Ürünün ilk temel sayfaları oluşturulmuş ve kodlamaya başlanmıştır.
+
+- Tasarım süreci tamamlanmış ve ürünün genel yapısı netleşmiştir.
+
+- Ancak ekip içi iletişim sorunları, hedeflenen ilerlemenin tam olarak sağlanamamasına neden olmuştur.
+
+- Kod yazımı planlandığı gibi ilerlemiş, ancak bazı story’ler bir sonraki sprint’e aktarılmıştır.
+
+- Kod iskeleti üzerinde yapılan geliştirmeler, sonraki aşamalarda daha hızlı ilerleme sağlayacak bir temel oluşturmuştur.
+
+- Sprint katılımcıları: Züleyha Çiçen, Merve Gühan, Emirhan Bahşi, Elanur İmirgi, Mehmet Esat Karataş.
+
+- **Sprint Retrospective:**
+- Ekip içi iletişim sorunları ana gündem maddesi olmuştur. WhatsApp üzerinden yapılan yazışmalarda süreklilik sağlanamadığı için, iletişim daha disiplinli bir şekilde yürütülmesi gerektiği kararlaştırılmıştır.
+
+- Günlük mesajlaşmalara belirli saatlerde düzenli olarak devam edilmesi ve görev paylaşımının net bir şekilde belirlenmesi kararı alınmıştır.
+
+- Sprint planlaması yapılırken story'lerin daha küçük parçalara bölünmesinin faydalı olacağı değerlendirilmiştir.
+ 
+-**Diğer Notlar**:
+- Yok
