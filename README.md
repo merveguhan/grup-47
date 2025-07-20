@@ -146,4 +146,4 @@ Aşamalı ekran görünümleri
 - Sprint planlaması yapılırken story'lerin daha küçük parçalara bölünmesinin faydalı olacağı değerlendirilmiştir.
  
 -**Diğer Notlar**:
-- Yok
+- Bu sprintte Elanur İmirgi ve Mehmet Esat Karataş görev almamıştır ancak gerekli iletişim kurularak sprint 3 için görev alacakları konusunda ortak karara varılmıştır.
