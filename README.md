@@ -136,7 +136,7 @@ Aşamalı ekran görünümleri
 
 - Kod iskeleti üzerinde yapılan geliştirmeler, sonraki aşamalarda daha hızlı ilerleme sağlayacak bir temel oluşturmuştur.
 
-- Sprint katılımcıları: Züleyha Çiçen, Merve Gühan, Emirhan Bahşi, Elanur İmirgi, Mehmet Esat Karataş.
+- Sprint katılımcıları: Züleyha Çiçen, Merve Gühan, Emirhan Bahşi.
 
 - **Sprint Retrospective:**
 - Ekip içi iletişim sorunları ana gündem maddesi olmuştur. WhatsApp üzerinden yapılan yazışmalarda süreklilik sağlanamadığı için, iletişim daha disiplinli bir şekilde yürütülmesi gerektiği kararlaştırılmıştır.
