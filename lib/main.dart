@@ -1,5 +1,20 @@
-import 'package:flutter/material.dart';
+
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';  // Yeni eklenen satır
 import 'dart:async';
+import 'package:flutter/material.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,  // Buraya eklendi
+  );
+  runApp(MyApp());
+}
+
+
+
+
 
 // --- MODELLER ---
 class User {
@@ -42,9 +57,7 @@ class ReminderLog {
   });
 }
 
-void main() {
-  runApp(const MyApp());
-}
+
 
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);
@@ -1263,7 +1276,7 @@ class DashboardScreen extends StatelessWidget {
                     ),
                   ),
                 )),
-            const SizedBox(height: 16),git fetch origin main
+            const SizedBox(height: 16),
             _DashboardCard(
               icon: Icons.lightbulb,
               iconColor: Colors.purple,
@@ -1319,4 +1332,5 @@ class _DashboardCard extends StatelessWidget {
       ),
     );
   }
+
 }

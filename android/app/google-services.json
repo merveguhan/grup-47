@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799549887454",
+    "project_id": "grup-47",
+    "storage_bucket": "grup-47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799549887454:android:258d2edf342ed6c1d4434f",
+        "android_client_info": {
+          "package_name": "com.example.slack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEWy6C6Ebzilrl18bJTmmdeKMDcwMmUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799549887454:android:49a7af9117b24b71d4434f",
+        "android_client_info": {
+          "package_name": "com.ornek.uygulama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEWy6C6Ebzilrl18bJTmmdeKMDcwMmUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
