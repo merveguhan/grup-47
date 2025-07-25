@@ -13,9 +13,6 @@ void main() async {
 }
 
 
-
-
-
 // --- MODELLER ---
 class User {
   final int id;
@@ -60,14 +57,14 @@ class ReminderLog {
 
 
 class MyApp extends StatefulWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
   @override
   State<MyApp> createState() => _MyAppState();
 }
 
 class _MyAppState extends State<MyApp> {
   User? _activeUser;
-  List<User> _users = [];
+  final List<User> _users = [];
   bool _showSplash = true;
   DateTime? _treatmentEndDate;
 
@@ -147,7 +144,7 @@ class _MyAppState extends State<MyApp> {
 }
 
 class SplashScreen extends StatelessWidget {
-  const SplashScreen({Key? key}) : super(key: key);
+  const SplashScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -211,7 +208,7 @@ class ProfileScreen extends StatefulWidget {
   final List<User> users;
   final void Function(User) onUserSelected;
   final void Function(User) onUserCreated;
-  const ProfileScreen({Key? key, required this.users, required this.onUserSelected, required this.onUserCreated}) : super(key: key);
+  const ProfileScreen({super.key, required this.users, required this.onUserSelected, required this.onUserCreated});
   @override
   State<ProfileScreen> createState() => _ProfileScreenState();
 }
@@ -328,7 +325,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
 // --- ANASAYFA ---
 class HomeScreen extends StatelessWidget {
   final User activeUser;
-  const HomeScreen({Key? key, required this.activeUser}) : super(key: key);
+  const HomeScreen({super.key, required this.activeUser});
 
   @override
   Widget build(BuildContext context) {
@@ -401,7 +398,7 @@ class _HomeButton extends StatelessWidget {
 // --- İLAÇ EKLE/DÜZENLE EKRANI ---
 class MedicineEditScreen extends StatefulWidget {
   final void Function(DateTime?)? onTreatmentEndDateChanged;
-  const MedicineEditScreen({Key? key, this.onTreatmentEndDateChanged}) : super(key: key);
+  const MedicineEditScreen({super.key, this.onTreatmentEndDateChanged});
 
   @override
   State<MedicineEditScreen> createState() => _MedicineEditScreenState();
@@ -876,7 +873,7 @@ class _MedicineEditScreenState extends State<MedicineEditScreen> {
 // --- BİLDİRİM AYARLARI EKRANI ---
 class NotificationSettingsScreen extends StatefulWidget {
   final DateTime? treatmentEndDate;
-  const NotificationSettingsScreen({Key? key, this.treatmentEndDate}) : super(key: key);
+  const NotificationSettingsScreen({super.key, this.treatmentEndDate});
   @override
   State<NotificationSettingsScreen> createState() => _NotificationSettingsScreenState();
 }
@@ -996,7 +993,7 @@ class _NotificationSettingsScreenState extends State<NotificationSettingsScreen>
 
 // --- HATIRLATMA GEÇMİŞİ EKRANI ---
 class ReminderHistoryScreen extends StatefulWidget {
-  const ReminderHistoryScreen({Key? key}) : super(key: key);
+  const ReminderHistoryScreen({super.key});
   @override
   State<ReminderHistoryScreen> createState() => _ReminderHistoryScreenState();
 }
@@ -1190,7 +1187,7 @@ class DashboardScreen extends StatelessWidget {
   final List<ReminderLog> recentLogs;
 
   const DashboardScreen({
-    Key? key,
+    super.key,
     required this.userName,
     required this.totalToday,
     required this.takenToday,
@@ -1198,7 +1195,7 @@ class DashboardScreen extends StatelessWidget {
     required this.nextMedicine,
     required this.motivationMessage,
     required this.recentLogs,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
